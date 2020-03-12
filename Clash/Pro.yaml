@@ -661,6 +661,7 @@ Rule:
 - DOMAIN-SUFFIX,tvb.com,GlobalMedia
 # > Netflix
 # USER-AGENT,Argo*,GlobalMedia
+- DOMAIN-SUFFIX,fast.com,GlobalMedia
 - DOMAIN-SUFFIX,netflix.com,GlobalMedia
 - DOMAIN-SUFFIX,netflix.net,GlobalMedia
 - DOMAIN-SUFFIX,nflxext.com,GlobalMedia
@@ -1080,6 +1081,7 @@ Rule:
 - DOMAIN-SUFFIX,wattpad.com,PROXY
 - DOMAIN-SUFFIX,whoer.net,PROXY
 - DOMAIN-SUFFIX,wikimapia.org,PROXY
+- DOMAIN-SUFFIX,wikimedia.org,PROXY
 - DOMAIN-SUFFIX,wikipedia.org,PROXY
 - DOMAIN-SUFFIX,wikiquote.org,PROXY
 - DOMAIN-SUFFIX,wikiwand.com,PROXY
